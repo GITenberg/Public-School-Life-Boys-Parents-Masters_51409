@@ -1,0 +1,27 @@
+_repo: Public-School-Life-Boys-Parents-Masters_51409
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Waugh, Alec
+    alias: Waugh, Alexander Raban
+    birthdate: 1898
+    deathdate: 1981
+    gutenberg_agent_id: '8306'
+    url: http://www.gutenberg.org/2009/agents/8306
+    wikipedia: http://en.wikipedia.org/wiki/Alec_Waugh
+description: ''
+gutenberg_issued: '2016-03-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51409'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Endowed public schools (Great Britain)'
+- !lcc 'LA'
+- !lcsh 'Education, Secondary'
+- GITenberg
+title: 'Public School Life: Boys, Parents, Masters'
+url: http://www.gutenberg.org/ebooks/51409
